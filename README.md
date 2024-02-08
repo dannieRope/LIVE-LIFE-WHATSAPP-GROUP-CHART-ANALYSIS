@@ -1,31 +1,31 @@
-#LIVE LIFE WHATSAPP GROUP CHART ANALYSIS
+# LIVE LIFE WHATSAPP GROUP CHART ANALYSIS
 
 Cleaning and analysing WhatsApp group chat data as well as report design in PowerBI
 
-#INTRODUCTION 
+# INTRODUCTION 
 
 WhatsApp plays a significant role in our lives by facilitating rapid communication between friends, family, and coworkers. 
 However, have you ever considered what intriguing content those chat logs might contain? To uncover hidden insights in the LIVE LIFE WhatsApp group chat logs, I started this project.
 Live Life is a group of young people got together and made the decision to use donations to support those in need and share links to job opportunities. 
 The Project documentation includes:
 
-**Objectives **
+- **Objectives**
 
-**Data Gathering **
+- **Data Gathering**
 
-**Data Transformation
+- **Data Transformation**
 
-**Data Modeling**
+- **Data Modeling**
 
-**Measures**
+- **Measures**
 
-**Visualization**
+- **Visualization**
 
-**Insights and Recommendations**
+- **Insights and Recommendations**
 
-**Conclusion**
+- **Conclusion**
 
-##OBJECTIVES
+## OBJECTIVES
 
 The goal of this project is to uncover concealed insights within the Live Life WhatsApp group chat logs. By the project's conclusion, the following questions should be addressed:
 
@@ -41,9 +41,12 @@ The goal of this project is to uncover concealed insights within the Live Life W
     
 6. Examine and understand message trends over different months.
 
-#DATA GATHERING 
-To get the data for cleaning, I just exported the group chat by clicking the ellipsis in the upper right corner of the group chat and choosing "Export Chat" to obtain the WhatsApp chat data. The exported chat comes as a text file. However, with this method, one is limited to only 40,000 messages (without media). Below is an image of the text file exported. 
-DATA TRANSFORMATION
+# DATA GATHERING 
+
+To get the data for cleaning, I just exported the group chat by clicking the ellipsis in the upper right corner of the group chat and choosing "Export Chat" to obtain the WhatsApp chat data.
+The exported chat comes as a text file. However, with this method, one is limited to only 40,000 messages (without media). Below is an image of the text file exported. 
+
+# DATA TRANSFORMATION
 The text file had messy and unstructured data, which required transformation to make it easier for analysis. Power Query was used for this purpose. The transformation process involved the following steps:
 
 1. **Splitting columns:**
