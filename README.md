@@ -70,7 +70,8 @@ The text file had messy and unstructured data, which required transformation to 
 After applying these processes, the data became free of null values, duplicates, inconsistencies, and inappropriate data types. It's worth noting that messages automatically generated when the group admin performs actions such as adding someone to the group, changing the group name, or removing someone were excluded from the transformed data.
 Here is the Power Query Script to [Clean the WhatsApp Text file](CleaningWhatSappData.pq)
 
-#DATA MODELING
+# DATA MODELING
+
 Three tables are employed in the data modeling process:
 
 1. **WhatsApp Data Table:**
@@ -88,7 +89,7 @@ Three tables are employed in the data modeling process:
 After the creation of these tables, necessary relationships are established, resulting in the following structure.
 
 
-#MEASURES CREATED
+# MEASURES CREATED
 
 The following measures were established to determine key metrics:
 
