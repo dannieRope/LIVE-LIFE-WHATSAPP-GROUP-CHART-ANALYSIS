@@ -163,6 +163,16 @@ The following measures were established to determine key metrics:
 
 I also used card visuals to display key metrics such as the average message per day, total number of messages, Peak hour etc. 
 
+## DASHBOARD
+Bringing all everything together, I developed an interactive dashboard that showcases essential metrics and provides valuable insights to users. This allows users to easily monitor and assess their performance in the group. Click [here](https://app.powerbi.com/view?r=eyJrIjoiNDNmNjViZWQtMzEwMC00ZWQ0LWE3NWEtODU2MzFkY2M0ZTJiIiwidCI6ImNlZjJkNzc5LWIxMWMtNDMxNy1iYWUxLWY2N2UwNDQ2ZjlhNiJ9) to interact with the dashboard. 
+
+![Screenshot (451)](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/56f25dc9-75cb-4d30-a00f-da515d9e79a5)
+
+
+![chart analysis](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/1bd3fa11-82e7-4722-8e94-abdc914b5340)
+
+
+
 # INSIGHTS AND RECOMMENDATIONS
 
 # **Insights:**
