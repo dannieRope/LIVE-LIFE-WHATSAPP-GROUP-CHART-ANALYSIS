@@ -126,27 +126,40 @@ The following measures were established to determine key metrics:
 1. Identify the types of messages sent and their respective proportions.
 - Utilizing a donut chart, I visually represented the types of messages and their respective proportions by examining the message type column in the WhatsApp Data table.
 
+![message type chart](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/665fb229-fe67-489e-9b8d-de9d50fb6116)
+
 
 2. Determine the total number of participants in the group.
 - Employing a card visual, I showcased the total number of group participants through the Total users measure, providing a clear overview.
+
+![total members card](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/78409a5f-f9ba-48f0-a0de-1b5fbe602445)
 
 
 3. Identify and list the top 10 most active participants.
 
 - Using a bar chart, I identified and listed the top 10 group participants, offering a visual representation of their significance.
 
+![top 10 members](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/d75a851f-8418-4651-9e27-c8d73904c571)
+
+
 4. Pinpoint the peak day and hour of message activity.
 
 - The application of a treemap allowed me to pinpoint peak hours and days when the group exhibited heightened activity.
+
+![peak hour and day](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/44861791-8682-4fe7-ae83-38b9ef851587)
 
 
 5. Analyse and report on the most frequently used words in the group.
 
 - Employing a word cloud, I visually presented the most frequently used words, offering insights into communication patterns.
 
+![Most used words](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/a4cf9da2-6b24-4f17-bef3-6f5aecf6181a)
+
+
 6. Examine and understand message trends over different months.
 - A line chart was utilized to comprehend the message trend over the months, as illustrated in the image below.
 
+![Trend monthly](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/20c51862-237e-47c7-b793-be4df7996aa4)
 
 I also used card visuals to display key metrics such as the average message per day, total number of messages, Peak hour etc. 
 
