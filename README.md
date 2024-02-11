@@ -121,6 +121,65 @@ The following measures were established to determine key metrics:
    AvgMessageperday = AVERAGEX(SUMMARIZE(WhatSappData, 'Calendar'[Date], "MessageCount", [Messages]), [MessageCount])
    ```
 
+# DATA VISUALIZATION
+
+1. Identify the types of messages sent and their respective proportions.
+- Utilizing a donut chart, I visually represented the types of messages and their respective proportions by examining the message type column in the WhatsApp Data table.
+
+
+2. Determine the total number of participants in the group.
+- Employing a card visual, I showcased the total number of group participants through the Total users measure, providing a clear overview.
+
+
+3. Identify and list the top 10 most active participants.
+
+- Using a bar chart, I identified and listed the top 10 group participants, offering a visual representation of their significance.
+
+4. Pinpoint the peak day and hour of message activity.
+
+- The application of a treemap allowed me to pinpoint peak hours and days when the group exhibited heightened activity.
+
+
+5. Analyse and report on the most frequently used words in the group.
+
+- Employing a word cloud, I visually presented the most frequently used words, offering insights into communication patterns.
+
+6. Examine and understand message trends over different months.
+- A line chart was utilized to comprehend the message trend over the months, as illustrated in the image below.
+
+
+I also used card visuals to display key metrics such as the average message per day, total number of messages, Peak hour etc. 
+
+# INSIGHTS AND RECOMMENDATIONS
+
+# **Insights:**
+
+1. **Message Types:**
+   - Most messages are either plain text or include pictures and videos. Around 79% are text, and 30% have media content.
+
+2. **Common Words:**
+   - Words like "The," "to," "you," and "and" pop up a lot in our text messages.
+
+3. **Top Users:**
+   - User14 sends the most messages (466), followed by User2 (286). These users are really active.
+
+4. **Monthly Message Trends:**
+   - Messages varied each month. We had a lot in May 2023 (804), a drop in June, but then it picked up until February 2024, where it peaked at 1702. Something interesting might be happening here.
+
+5. **Active Days and Hours:**
+   - Tuesdays (609 messages) and Wednesdays (545 messages) are the busiest days. Also, 7:00 PM is the time when most people are talking.
+
+# **Recommendation:**
+- **Dig Deeper:**
+   - Conduct a detailed analysis of the content and context behind the fluctuating monthly message trends to identify influencing factors.
+- **Celebrate Active Users:**
+   - Acknowledge and thank User14 and User2 for being super active. Maybe others will get inspired.
+
+- **Time It Right:**
+   - Plan important messages for Tuesdays and Wednesdays, especially around 7:00 PM when most people are around.
+
+These simple steps can make our group communication better and more enjoyable.
+
 
 
 
