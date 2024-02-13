@@ -207,6 +207,12 @@ Bringing all everything together, I developed an interactive dashboard that show
 
 These simple steps can make our group communication better and more enjoyable.
 
+# CONCLUSION
+
+I had a great time working on this project. I hope the Power Query Script and instructions are helpful for you to try it with your own data. There could be improvements in the future.
+
+Unfortunately, I can't share the .pbix file for privacy reasons. But you can check out the interactive report to see how it works and what it looks like. [WhatSapp Chat Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDNmNjViZWQtMzEwMC00ZWQ0LWE3NWEtODU2MzFkY2M0ZTJiIiwidCI6ImNlZjJkNzc5LWIxMWMtNDMxNy1iYWUxLWY2N2UwNDQ2ZjlhNiJ9)
+
 
 
 
