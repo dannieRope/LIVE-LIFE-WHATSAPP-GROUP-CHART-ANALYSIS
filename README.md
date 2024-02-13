@@ -44,10 +44,7 @@ The goal of this project is to uncover concealed insights within the Live Life W
 # DATA GATHERING 
 
 To get the data for cleaning, I just exported the group chat by clicking the ellipsis in the upper right corner of the group chat and choosing "Export Chat" to obtain the WhatsApp chat data.
-The exported chat comes as a text file. However, with this method, one is limited to only 40,000 messages (without media). Below is an image of the text file exported. 
-
-![whatsap text file](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHART-ANALYSIS/assets/132214828/9666257a-8b96-4e59-8a81-015292f1012e)
-
+The exported chat comes as a text file. However, with this method, one is limited to only 40,000 messages (without media).
 
 # DATA TRANSFORMATION
 The text file had messy and unstructured data, which required transformation to make it easier for analysis. Power Query was used for this purpose. The transformation process involved the following steps:
