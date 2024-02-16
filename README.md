@@ -1,4 +1,4 @@
-# LIVE LIFE WHATSAPP GROUP CHART ANALYSIS
+# LIVE LIFE WHATSAPP GROUP CHAT ANALYSIS
 
 Cleaning and analysing WhatsApp group chat data as well as report design in PowerBI
 
