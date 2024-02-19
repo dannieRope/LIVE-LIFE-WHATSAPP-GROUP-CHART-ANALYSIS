@@ -92,6 +92,9 @@ Three tables are employed in the data modeling process:
 
 After the creation of these tables, necessary relationships are established, resulting in the following structure.
 
+![MOdel](https://github.com/dannieRope/LIVE-LIFE-WHATSAPP-GROUP-CHAT-ANALYSIS/assets/132214828/98b8e11c-f537-409a-bbc0-f666ba135028)
+
+
 
 # MEASURES CREATED
 
